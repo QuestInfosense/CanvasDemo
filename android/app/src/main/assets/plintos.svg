@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="17.1332mm" height="6.7358mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 638 251"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="540" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Britannic Bold">
+		<font-face-src>
+			<font-face-name name="Britannic Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="O" horiz-adv-x="648" d="M329.831 678.008c194.153,0 291.186,-114.831 291.186,-344.492 0,-229.703 -98.8559,-344.534 -296.525,-344.534 -197.669,0 -296.483,117.5 -296.483,352.331 0,224.534 100.678,336.695 301.822,336.695zm-5.33898 -53.0085c-36.4831,0 -61.3136,-20.1695 -74.1525,-60.339 -12.839,-40.1695 -19.322,-117.161 -19.322,-231.144 0,-114.025 6.48305,-191.017 19.322,-231.186 12.839,-40.1695 37.6695,-60.339 74.1525,-60.339 36.5254,0 61.3559,20.1695 74.1949,60.339 12.7966,40.1695 19.322,117.161 19.322,231.186 0,113.644 -6.52542,190.636 -19.322,230.975 -12.839,40.339 -37.6695,60.5085 -74.1949,60.5085z"/>
+   <glyph unicode="L" horiz-adv-x="508" d="M251.017 666.992l0 -600 273.983 0 0 -66.9915 -466.992 0 0 666.992 193.008 0z"/>
+   <glyph unicode="I" horiz-adv-x="309" d="M251.017 666.992l0 -666.992 -193.008 0 0 666.992 193.008 0z"/>
+   <glyph unicode="T" horiz-adv-x="518" d="M525 666.992l0 -66.9915 -163.008 0 0 -600 -205 0 0 600 -165 0 0 66.9915 533.008 0z"/>
+   <glyph unicode="N" horiz-adv-x="598" d="M545 666.992l0 -666.992 -148.008 0 -278.008 421.653 0 -421.653 -65 0 0 666.992 122.5 0 303.517 -456.144 0 456.144 65 0z"/>
+   <glyph unicode="S" horiz-adv-x="548" d="M493.178 479.831l-89.8305 -16.6525c3.81356,18.0085 5.63559,33.0085 5.63559,45.1695 0,77.839 -46.9915,116.653 -140.805,116.653 -74.1949,0 -111.186,-26.6525 -111.186,-80.1695 0,-40 41.5254,-74.322 124.322,-103.008 159.873,-55 239.703,-136.483 239.703,-244.322 0,-63.178 -22.5,-113.814 -67.3305,-152.161 -45,-38.178 -104.703,-57.3305 -179.195,-57.3305 -165,0 -247.5,63.8136 -247.5,191.653 0,10.339 1.01695,23.178 2.83898,38.5169l93.178 20.5085c-7.33051,-28.3475 -11.0169,-52.839 -11.0169,-73.6864 0,-82.6695 47.3305,-123.983 142.161,-123.983 75.8475,0 113.856,29.8305 113.856,89.322 0,44.322 -45.339,83.3475 -136.186,116.822 -131.144,48.178 -196.822,125.169 -196.822,231.017 0,60 21.822,108.136 65.678,144.831 43.8136,36.6525 101.314,55 172.669,55 146.483,0 219.831,-66.0169 219.831,-198.178z"/>
+   <glyph unicode="P" horiz-adv-x="597" d="M58.0085 0l0 666.992 287.161 0c163.178,0 244.831,-65.5085 244.831,-196.483 0,-132.331 -90.678,-198.517 -272.161,-198.517l-66.822 0 0 -271.992 -193.008 0zm193.008 333.983l43.4746 0c70.339,0 105.508,46.6949 105.508,139.831 0,87.5 -35.1695,131.186 -105.508,131.186l-43.4746 0 0 -271.017z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Britannic Bold";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#373435;stroke-width:7.45314}
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:#373435}
+    .fnt0 {font-weight:normal;font-size:87.947px;font-family:'Britannic Bold'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" x="4" y="4" width="631" height="244"/>
+  <text x="154" y="155"  class="fil1 fnt0">PLINTOS</text>
+ </g>
+</svg>
